@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/daniel-drucker/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/daniel-drucker/static/js/main.fd9cc92c.chunk.js",
+    "main.js.map": "/daniel-drucker/static/js/main.fd9cc92c.chunk.js.map",
+    "runtime-main.js": "/daniel-drucker/static/js/runtime-main.d34f8ed6.js",
+    "runtime-main.js.map": "/daniel-drucker/static/js/runtime-main.d34f8ed6.js.map",
+    "static/js/2.d0d0b334.chunk.js": "/daniel-drucker/static/js/2.d0d0b334.chunk.js",
+    "static/js/2.d0d0b334.chunk.js.map": "/daniel-drucker/static/js/2.d0d0b334.chunk.js.map",
+    "index.html": "/daniel-drucker/index.html",
+    "precache-manifest.542df12a27443cb657ff802c46ddae47.js": "/daniel-drucker/precache-manifest.542df12a27443cb657ff802c46ddae47.js",
+    "service-worker.js": "/daniel-drucker/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/daniel-drucker/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.d0d0b334.chunk.js.LICENSE.txt": "/daniel-drucker/static/js/2.d0d0b334.chunk.js.LICENSE.txt",
+    "static/media/1363469042 copia.jpg": "/daniel-drucker/static/media/1363469042 copia.58eaa828.jpg",
+    "static/media/ashley-picture-2.jpg": "/daniel-drucker/static/media/ashley-picture-2.149f574a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d34f8ed6.js",
+    "static/js/2.d0d0b334.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.fd9cc92c.chunk.js"
+  ]
+}
